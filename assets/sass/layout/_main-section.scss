@@ -1,0 +1,81 @@
+//Inicio del main
+.sectionOrganic{
+  background-color: $taupe-gray;
+  color: $white;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.sectionOrganic__image{
+  max-width: 70%;
+  text-align: center;
+  display:block;
+  margin:auto;
+  padding-top: 50px;
+}
+
+.sectionOrganic--backgroundWhite{
+  background-color: $snow;
+}
+
+.sectionOrganic--backgroundWhite p{
+  color: $granite-gray;
+}
+
+.sectionOrganic__image{
+  max-width: 70%;
+  text-align: center;
+  display:block;
+  margin:auto;
+  padding-top: 50px;
+}
+
+.sectionOrganic__titleLarge--colorGrey{
+text-align: center;
+color: $granite-gray;
+}
+
+.articleAbout p{
+  color: $granite-gray;
+}
+
+.articleAbout{
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+p{
+  text-align: justify;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.sectionNosotros__titleLargo{
+  background-color: $salmon;
+  color: $white;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin: 0;
+}
+
+.articleAbout__container img{
+  max-width: 20%;
+  text-align: center;
+  display:block;
+  margin:auto;
+}
+
+.articleAbout__titleCorto{
+  text-align: center;
+  color: $granite-gray;
+}
+
+.articleAbout{
+  background-color: $snow;
+}
+
+.articleAbout__container{
+  margin: 0 auto;
+}
+//Fin del main

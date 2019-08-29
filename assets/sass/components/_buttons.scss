@@ -1,0 +1,23 @@
+.formContacto__button {
+ color: $granite-gray;
+ font-size: $medium;
+ background-color: $snow;
+ border-radius: 25px;
+ border: 1px solid $granite-gray;
+ text-align: center;
+ padding: 10px 50px;
+}
+
+.formContacto{
+  text-align: center;
+  background-color: $salmon;
+}
+
+.formContacto__title{
+  color: $white;
+}
+
+.formContacto__content{
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+}

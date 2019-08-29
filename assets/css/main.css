@@ -1,0 +1,181 @@
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+h4,
+h5,
+h6,
+p {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+h3 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.section__titlePrincipal {
+  margin-bottom: -3rem;
+}
+
+.sectionOrganic {
+  background-color: #91918D;
+  color: #FFF;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.sectionOrganic__image {
+  max-width: 70%;
+  text-align: center;
+  display: block;
+  margin: auto;
+  padding-top: 50px;
+}
+
+.sectionOrganic--backgroundWhite {
+  background-color: #FAFAFA;
+}
+
+.sectionOrganic--backgroundWhite p {
+  color: #686963;
+}
+
+.sectionOrganic__image {
+  max-width: 70%;
+  text-align: center;
+  display: block;
+  margin: auto;
+  padding-top: 50px;
+}
+
+.sectionOrganic__titleLarge--colorGrey {
+  text-align: center;
+  color: #686963;
+}
+
+.articleAbout p {
+  color: #686963;
+}
+
+.articleAbout {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+p {
+  text-align: justify;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.sectionNosotros__titleLargo {
+  background-color: #E97F72;
+  color: #FFF;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin: 0;
+}
+
+.articleAbout__container img {
+  max-width: 20%;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+.articleAbout__titleCorto {
+  text-align: center;
+  color: #686963;
+}
+
+.articleAbout {
+  background-color: #FAFAFA;
+}
+
+.articleAbout__container {
+  margin: 0 auto;
+}
+
+.footer {
+  background-color: #91918D;
+  text-align: center;
+}
+
+footer img {
+  max-width: 20%;
+  padding-top: 40px;
+}
+
+.formContacto__button {
+  color: #686963;
+  font-size: 18px;
+  background-color: #FAFAFA;
+  border-radius: 25px;
+  border: 1px solid #686963;
+  text-align: center;
+  padding: 10px 50px;
+}
+
+.formContacto {
+  text-align: center;
+  background-color: #E97F72;
+}
+
+.formContacto__title {
+  color: #FFF;
+}
+
+.formContacto__content {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+}
+
+.nav {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background-color: #FFF;
+}
+.nav__content {
+  width: 100%;
+  max-width: 25%;
+  height: auto;
+  overflow: hidden;
+  padding-left: 5rem;
+  padding-top: 1rem;
+}
+.nav__image {
+  width: 100%;
+}
+
+.header {
+  background-color: #E97F72;
+  margin: 0;
+  padding: 5.6875em;
+  color: #FFF;
+  background-size: cover;
+  text-align: center;
+}
+
+/*# sourceMappingURL=main.css.map */
